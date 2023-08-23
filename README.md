@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="repository_banner.png" alt="Bug Hunter's Wordlists Repository" width="600">
+    <img src="https://raw.githubusercontent.com/bhavesh-pardhi/Wordlist-Hub/main/WordLists/logo.png" alt="Bug Hunter's Wordlists Repository" width="600">
 </div>
 
 ## ***Bug Hunter's Wordlists Repository***
