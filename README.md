@@ -22,6 +22,10 @@ In the realm of ethical hacking and cybersecurity, wordlists are indispensable t
 
 Explore an array of meticulously curated wordlists designed to cater to diverse aspects of security testing. The repository includes the following wordlists:
 
+### 10-million-password-list-top-1000000.txt
+- `10-million-password-list-top-1000000.txt`: Wordlist of 10 Million Passwords
+
+
 ### 403 Header Bypass Wordlist
 
 - `403_header_payloads.txt`: Wordlist for 403 Header Bypass Techniques
